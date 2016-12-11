@@ -10,7 +10,7 @@
     "start": "node server/lib/index.js"
   },
   "engines": {
-    "node": "6.9.1"
+    "node": "6.9.2"
   },
   "repository": {
     "url": "https://github.com/dragonmaths/nine-clone-morris.git",
