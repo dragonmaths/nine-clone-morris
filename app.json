@@ -1,8 +1,8 @@
 {
   "name": "BabylonJS + Colyseus",
-  "description": "Boilerplate integrating BabylonJS with Colyseus for multi-player games",
-  "repository": "https://github.com/endel/babylonjs-multiplayer-boilerplate",
-  "logo": "https://cdn.rawgit.com/endel/babylonjs-multiplayer-boilerplate/master/logo.png",
+  "description": "Uses Endel's Boilerplate integrating BabylonJS with Colyseus for multi-player games",
+  "repository": "https://github.com/dragonmaths/nine-clone-morris",
+  "logo": "https://cdn.rawgit.com/dragonmaths/nine-clone-morris/master/logo.png",
   "keywords": ["babylonjs", "multiplayer", "colyseus"],
   "env": {
     "NPM_CONFIG_PRODUCTION": {

@@ -13,10 +13,10 @@
     "node": "6.9.1"
   },
   "repository": {
-    "url": "git@github.com:endel/babylonjs-multiplayer-boilerplate.git",
+    "url": "https://github.com/dragonmaths/nine-clone-morris.git",
     "type": "git"
   },
-  "author": "Endel Dreyer <endel.dreyer@gmail.com>",
+  "author": "Boiler Plate by Endel Dreyer <endel.dreyer@gmail.com>",
   "license": "Apache 2.0",
   "devDependencies": {
     "typescript": "^2.1.4"
