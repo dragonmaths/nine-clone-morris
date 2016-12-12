@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "awesome-typescript-loader": "^3.0.0-beta.9",
+    "awesome-typescript-loader": "3.0.0-beta.9",
     "css-loader": "^0.25.0",
     "extract-text-webpack-plugin": "^2.0.0-beta.4",
     "file-loader": "^0.9.0",
@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "babylonjs": "^2.5.0",
-    "colyseus.js": "^0.5.1"
+    "colyseus.js": "^0.5.2"
   }
 }
