@@ -52,7 +52,7 @@ var createScene = function() {
 	var drillsCSG = BABYLON.CSG.FromMesh(mergedDrills);
 	var subCSG = baseCSG.subtract(drillsCSG);
 
-	board = subCSG.toMesh("board", new BABYLON.StandardMaterial("mat", scene), scene);
+	var board = subCSG.toMesh("board", new BABYLON.StandardMaterial("mat", scene), scene);
 	board.material.diffuseTexture = new BABYLON.Texture("albedo.png", scene);
 
 	base.dispose();
